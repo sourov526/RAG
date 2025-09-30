@@ -1,7 +1,7 @@
 # RAG Installation
 
 # clone the repository
-git clone "repo link"
+`git clone "repo link"`
 
 # for basics
 `cd basics`
