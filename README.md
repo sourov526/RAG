@@ -4,7 +4,7 @@
 git clone "repo link"
 
 # for basics
-cd basics
+`cd basics`
 npm install
 npm run start
 
