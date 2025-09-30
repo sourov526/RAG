@@ -16,6 +16,7 @@
     "typescript": "^5.9.2"
   },
   "dependencies": {
-    "openai": "^5.23.2"
+    "openai": "^5.23.2",
+    "prompt-sync": "^4.2.0"
   }
 }
