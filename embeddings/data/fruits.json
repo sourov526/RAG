@@ -1,0 +1,77 @@
+[
+  {
+    "Id": "1",
+    "name": "Apple",
+    "description": "A sweet, crisp fruit that comes in red, green, or yellow varieties and is rich in fiber and antioxidants."
+  },
+  {
+    "Id": "2",
+    "name": "Banana",
+    "description": "A soft, elongated yellow fruit that provides instant energy and is high in potassium."
+  },
+  {
+    "Id": "3",
+    "name": "Orange",
+    "description": "A juicy citrus fruit known for its tangy flavor and high vitamin C content."
+  },
+  {
+    "Id": "4",
+    "name": "Mango",
+    "description": "A tropical fruit with sweet, golden flesh often called the 'king of fruits.'"
+  },
+  {
+    "Id": "5",
+    "name": "Pineapple",
+    "description": "A tropical fruit with spiky skin and juicy, tart-sweet yellow flesh."
+  },
+  {
+    "Id": "6",
+    "name": "Strawberry",
+    "description": "A small red berry with a sweet flavor and tiny edible seeds on its surface."
+  },
+  {
+    "Id": "7",
+    "name": "Watermelon",
+    "description": "A large, refreshing fruit with green rind and sweet, juicy red or pink interior."
+  },
+  {
+    "Id": "8",
+    "name": "Grapes",
+    "description": "Small round fruits that grow in clusters and can be eaten fresh or made into wine."
+  },
+  {
+    "Id": "9",
+    "name": "Kiwi",
+    "description": "A small brown fruit with fuzzy skin and bright green, tangy flesh inside."
+  },
+  {
+    "Id": "10",
+    "name": "Papaya",
+    "description": "A tropical fruit with orange flesh, black seeds, and a mild, sweet flavor."
+  },
+  {
+    "Id": "11",
+    "name": "Peach",
+    "description": "A soft, fuzzy fruit with juicy yellow or white flesh and a sweet aroma."
+  },
+  {
+    "Id": "12",
+    "name": "Cherry",
+    "description": "A small, round, red or black fruit with a sweet or tart flavor and a single seed inside."
+  },
+  {
+    "Id": "13",
+    "name": "Blueberry",
+    "description": "A small, round blue fruit packed with antioxidants and often used in desserts."
+  },
+  {
+    "Id": "14",
+    "name": "Pomegranate",
+    "description": "A round fruit with thick skin and many juicy red seeds rich in antioxidants."
+  },
+  {
+    "Id": "15",
+    "name": "Lemon",
+    "description": "A bright yellow citrus fruit known for its sour taste and refreshing aroma."
+  }
+]
